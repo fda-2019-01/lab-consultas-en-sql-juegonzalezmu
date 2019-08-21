@@ -3,5 +3,5 @@
 ## campos de los registros de la tabla tbl0 
 ## con la columna ## c02 mayor o igual a 300.
 ##
-
+SELECT * FROM tb10 WHERE c02>=300;
 
